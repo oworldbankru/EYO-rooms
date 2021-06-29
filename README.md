@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">OYO Rooms Clone</h1>
+  <h1 align="center">OYO Rooms Clone : This is Vishal's version</h1>
 </p>
 
 ##### OYO Rooms end-end clone with integrationg payment gateway,Google maps,OAuth,SMS notifications.
